@@ -1,7 +1,7 @@
 <?php
 
 
-    echo"Hello Word<br>";
+    // echo"Hello Word<br>";
 
     $nama = "Tiana";
     $umur = "20";
